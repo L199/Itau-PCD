@@ -6,7 +6,6 @@ public class exemplo {
     public static void main(String[] args) {
       
          int numeros[]=new int[5];
-
          numeros[0] = 12;
          numeros[1] = 23;
          numeros[2] = 34;
